@@ -54,6 +54,7 @@ Edit
 ]
 🧠 Use Cases
 Quick QA of coordinate datasets
+![image](https://github.com/user-attachments/assets/def8c9f1-18b4-4938-892e-8f89726bdb4e)
 
 Educational tool for understanding GIS projections
 
